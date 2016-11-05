@@ -27,7 +27,7 @@ namespace CodingDojo2
             {
                 get
                 {
-                    return birthyear;
+                    return birthyear; //Aenderung für Commit
                 }
                 set
                 {
